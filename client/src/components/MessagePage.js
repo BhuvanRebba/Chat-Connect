@@ -11,7 +11,7 @@ import { IoTrash } from "react-icons/io5";
 import { IoLanguage } from "react-icons/io5";
 import { IoLanguage as IoTranslate } from "react-icons/io5";
 import uploadFile from "../helpers/uploadFile";
-import backgroundImage from "../assets/wallapaper.jpeg";
+import backgroundImage from "../assets/wallpaper.jpg";
 import { IoMdSend } from "react-icons/io";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { PiTranslateBold } from "react-icons/pi";
