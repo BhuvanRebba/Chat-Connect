@@ -304,7 +304,7 @@ const MessagePage = () => {
   ];
   return (
     <div
-      style={{ backgroundImage: `url(${backgroundImage})` }}
+      style={{ backgroundImage: `url(${backgroundImage})`, zIndex: -100}}
       className="bg-no-repeat bg-cover"
     >
       <header className=" top-0 h-16 bg-white/80 backdrop-blur-md border-b border-gray-100 flex justify-between items-center px-4 relative z-[9999] shadow-sm">
