@@ -78,7 +78,7 @@ const Home = () => {
         }`}
       >
         <div>
-          <img src={logo} width={1000} alt="logo" />
+          <img src={logo} width={250} alt="logo" />
         </div>
         <p className="text-lg mt-2 text-slate-500">
           Select user to send message
